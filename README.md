@@ -3,7 +3,7 @@ move music files after renaming them
 
 First install ExifTool by Phil Harvey from this link: https://exiftool.org
 
-edit 'Run Script' and change source('fromdir') and destination('todir') paths.
+In Alfred workflow, select 'Configure Workflow' and add path to your own source and destination folder.
 
 Run the workflow by typing 'moveit' on Alfred box and press enter.
 
