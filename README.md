@@ -1,7 +1,7 @@
 # moveit
 move music files after renaming them
 
-Prerequisites : Alfred 5, Python3
+Prerequisites : Alfred 5, Python3, ExifTool by Phil Harvey
 
 First install ExifTool by Phil Harvey from this link: https://exiftool.org
 
