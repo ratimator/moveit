@@ -1,6 +1,8 @@
 # moveit
 move music files after renaming them
 
+Prerequisites : Alfred 5, Python3
+
 First install ExifTool by Phil Harvey from this link: https://exiftool.org
 
 In Alfred workflow, select 'Configure Workflow' and add path to your own source and destination folder.
